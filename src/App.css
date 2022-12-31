@@ -36,6 +36,10 @@
   left: 5%;
 }
 
+a{
+  text-decoration: none;
+}
+
 .App a{
  color: rgb(250, 237, 167);
 }

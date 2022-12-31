@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <div className="App-main">
           <div className="App-caption">
-            <h1>生命不息 摸鱼不止  —— <a href={"https://space.bilibili.com/910547"}>佐倉双夜</a></h1>
+            <h1><a href={"https://space.bilibili.com/910547"}>生命不息 摸鱼不止</a></h1>
           </div>
 
         </div>
